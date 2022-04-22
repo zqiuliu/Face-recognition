@@ -7,7 +7,7 @@ pillow 9.1.0 <br>
 opencv 4.5.5.64 <br>
 scikit-learn 1.0.2 <br>
 keras 2.8 <br>
-
+python 3.9.9
 
 ## 隐私性保护
 扩展：基于全同态加密的人脸识别 参考链接:[https://github.com/DevilLost/Secure-Face-Recognition-System-based-on-Fully-Homomorphic-Encryption]
