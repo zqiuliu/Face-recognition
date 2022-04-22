@@ -2,11 +2,11 @@
 基于tensorflow简单人脸识别
 
 ## 环境部署
-tensorflow CPU 2.5
-pillow 9.1.0
-opencv 4.5.5.64
-scikit-learn 1.0.2
-keras 2.8
+tensorflow CPU 2.5 <br>
+pillow 9.1.0 <br>
+opencv 4.5.5.64 <br>
+scikit-learn 1.0.2 <br>
+keras 2.8 <br>
 
 
 ## 隐私性保护
