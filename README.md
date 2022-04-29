@@ -1,5 +1,5 @@
 # Face-recognition
-基于tensorflow简单人脸识别(可以用QT封装起来，懒得弄了！)
+基于tensorflow简单人脸识别
 
 ## 环境部署
 tensorflow CPU 2.5 <br>
